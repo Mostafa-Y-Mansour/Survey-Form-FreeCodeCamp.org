@@ -4,4 +4,4 @@ This is a FreeCodeCamp.org project on responsive design
 
 Link: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form
 
-Preview: 
+Preview: https://mostafa-y-mansour.github.io/Survey-Form-FreeCodeCamp.org/
